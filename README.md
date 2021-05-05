@@ -4,3 +4,4 @@
 3) Please check the version of "Speech recognizer" labrary befre running code as its a opensorce labrary and many changes happen evey year.
 4) Put all the Images in one file and name it american sign language.
 5) If you face any problen pls let me know.
+6) A new improve code updates name code_new if anypne use that pls use that code.
